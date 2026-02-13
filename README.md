@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🚀 FocusForge — AI-Powered Smart Study Planner
+FocusForge is a productivity web app designed to help students study smarter, not longer.
+I built this app to solve a real problem:
+Most students waste time deciding what to study and how to structure their sessions. FocusForge removes that friction by intelligently planning structured study blocks based on available time, topic difficulty, and priority.
+💡 What It Does
+🧠 AI Study Planner
+Breaks total study time into focused 45–60 minute sessions
+Prioritizes harder topics first
+Automatically inserts short breaks
+Adds structured revision time
+📊 Productivity Dashboard
+Tracks study hours
+Shows daily streak
+Displays completed tasks
+⏱ Focus Mode Timer
+Built-in Pomodoro-style timer for deep work sessions
+✅ Task & Habit Tracker
+Categorize tasks (Study / Gym / Personal)
+Track completion and consistency
+🎧 Focus Sounds
+Background sounds to improve concentration
+🎯 Why I Built It
+I wanted to create something beyond a basic to-do list —
+a structured productivity system tailored specifically for students.
+Most productivity tools are generic.
+FocusForge is built around academic flow, cognitive load management, and disciplined consistency.
+It combines:
+Smart planning
+Time blocking
+Habit tracking
+Focus environment
+All in one clean SaaS-style interface.
+🛠 Built With
+Next.js (App Router)
+TypeScript
+Modern UI components
+Deployed on Vercel
